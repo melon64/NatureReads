@@ -1,0 +1,9 @@
+exportPattern("^[[:alpha:]]+")
+import(naturecounts)
+import(plotly)
+import(sf)
+import(plyr)
+import(dplyr)
+import(purrr)
+import(RColorBrewer)
+
